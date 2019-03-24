@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">樂透服務</string>
+    <string name="RB1">大樂透</string>
+    <string name="RB2">威力彩</string>
+    <string name="button">產生號碼</string>
+    <string name="textview">輸入組數:</string>
+    <string name="output"></string>
+    <string name="title">樂透服務</string>
+</resources>
